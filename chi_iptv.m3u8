@@ -1,0 +1,194 @@
+#EXTM3U
+#EXTINF:32,VTV1 HD
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv1-hd/KenhCoBan.m3u8
+#EXTINF:0,VTV2 HD
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv2-hd/KenhCoBan.m3u8
+#EXTINF:0,VTV3 HD
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv3-hd/KenhCoBan.m3u8
+#EXTINF:0,ANTV
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/antv/KenhCoBan.m3u8
+#EXTINF:0,QPVN HD
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/qpvn-hd/KenhCoBan.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/bbc-earth.png" group-title="XemTV",BBC Earth
+https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/kbs-korea.png" group-title="XemTV",KBS
+https://live.fptplay53.net/epzhd2/kbs_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/bloomberg.png" group-title="XemTV",Bloomberg
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/kix.png" group-title="XemTV",KIX TV
+https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/strongman.jpg" group-title="XemTV",Strong Man TV
+https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:30,VTVcab 9 - InfoTV HD
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-9-infotv-hd/KenhCoBan.m3u8
+#EXTINF:30,AFN HD
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/afn-hd/KenhCoBan.m3u8
+#EXTINF:32,HGTV
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hgtv/KenhCoBan.m3u8
+#EXTINF:0,HITV
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hitv/KenhCoBan.m3u8
+#-----Movies-----
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/foxcrime.png" group-title="XemTV",FOXCRIME
+https://magnolia-cinelife.amagi.tv/amRdirect/did=&gdpr=&lat=&lon=&us_privacy=&consent=&dnt=/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/rakuten.png" group-title="XemTV",Rakuten TV
+https://newidco-rakutenviki-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:6346,Phim Âu Mỹ
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-au-my/KenhCoBan.m3u8
+#----ANIMAL---------
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/planet-earth.png" group-title="XemTV",Planet Earth
+https://xplore-vizio.amagi.tv/360p-cc/index.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/Outdoor.png" group-title="XemTV",Outdoor TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/viasat-history.png" group-title="XemTV",Viasat History
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/viasat-nature.png" group-title="XemTV",Viasat Nature
+https://careco-outdoor-action-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/viasat-explore.jpg" group-title="XemTV",Viasat Explore
+https://amg00111-hearstmediaprod-xploreintlnl-samsungnl-rx86v.amagi.tv/ts-eu-w1-n2/playlist/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
+#----KIDS-----------
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/kbs-world/KenhCoBan.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/ebs-kids.jpg" group-title="XemTV",EBS Kids TV
+https://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/pbskids.png" group-title="XemTV",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.m3u8
+#EXTINF:6410,Hoạt hình
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hoat-hinh/KenhCoBan.m3u8
+#----SCTV----
+#EXTINF:30,SCTV6
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/sctv6/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/giangnam0201/All-In-One-IPTV/refs/heads/main/logos/sctv/19_3b86f52a.jpg", SCTV19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://liveh34.vtvprime.vn/hls/SCTV19/03.m3u8
+#EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/giangnam0201/All-In-One-IPTV/refs/heads/main/logos/sctv/22_881fabb7.jpg", SCTV22
+https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/giangnam0201/All-In-One-IPTV/refs/heads/main/logos/sctv/82_51400b18.jpg", SCTV Phim Tổng Hợp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
+#EXTINF:30,Vĩnh Long 1
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vinh-long-1/KenhCoBan.m3u8
+#EXTINF:30,Vĩnh Long 2
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vinh-long-2/KenhCoBan.m3u8
+#EXTINF:30,Vĩnh Long 3
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vinh-long-3/KenhCoBan.m3u8
+#EXTINF:30,Vĩnh Long 4
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vinh-long-4/KenhCoBan.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/htv2.png" group-title="XemTV",HTV2
+https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
+#EXTINF:30,HTV3
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/htv3/KenhCoBan.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/htvthethao.png" group-title="XemTV",HTV Thể Thao
+https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
+#EXTINF:28,HTVC thuần việt
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/htvc-thuan-viet/KenhCoBan.m3u8
+#EXTINF:30,HTVC phim truyện HD
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/htvc-phim-truyen-hd/KenhCoBan.m3u8
+#EXTINF:30,HTVC du lịch & cuộc sống
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/htvc-du-lich-cuoc-song/KenhCoBan.m3u8
+#EXTINF:30,VTVcab 1 - Vie Giải Trí HD
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-1-vie-giai-tri-hd/KenhCoBan.m3u8
+#EXTINF:60,VTVcab 2 - Phim Việt HD
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-2-phim-viet-hd/KenhCoBan.m3u8
+#EXTINF:30,VTVcab10 - On Cine HD
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab10-on-cine-hd/KenhCoBan.m3u8
+#EXTINF:0,VTVcab19 – Vie Dramas
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab19-vie-dramas/KenhCoBan.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtvcab8.png" group-title="XemTV",VTVCab8 BiBi TV
+https://freem3u.xyz/api/live/play.m3u8?vid=178
+#EXTINF:30,VTVcab 21- Cartoon Kids HD
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-21-cartoon-kids-hd/KenhCoBan.m3u8
+#EXTINF:30,Vtvcab 4 – On Movies
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-4-on-movies/KenhCoBan.m3u8
+#EXTINF:30,VTVcab 5 - E Channel HD
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-5-e-channel-hd/KenhCoBan.m3u8
+#EXTINF:30,VTVcab 12 - StyleTV HD
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-12-styletv-hd/KenhCoBan.m3u8
+#EXTINF:30,Vtvcab17 – Trending TV
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab17-trending-tv/KenhCoBan.m3u8
+#EXTINF:30,VTVcab 20 - V Family HD
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-20-v-family-hd/KenhCoBan.m3u8
+#EXTINF:60,DaVinci HD
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/davinci-hd/KenhCoBan.m3u8
+#EXTINF:0,Đắk Lắk
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/dak-lak/KenhCoBan.m3u8
+#EXTINF:30,Đồng Tháp
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/dong-thap/KenhCoBan.m3u8
+#--------TV360------------------
+#EXTINF:60,TV360 Live
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360.live/KenhCoBan.m3u8
+#EXTINF:0,TV360+ 9
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-9/KenhCoBan.m3u8
+#EXTINF:0,TV360+ 10
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-10/KenhCoBan.m3u8
+#EXTINF:0,TV360+ 11
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-11/KenhCoBan.m3u8
+#----------------------SPORTS---------------------
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png", Canal+ Foot
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1071923&extension=ts&play_token=vcQAIeKouv
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720", CANAL+ LIVE 1
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122056&extension=ts&play_token=223GgKAnFY
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720", CANAL+ LIVE 2
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122022&extension=ts&play_token=iSj2dolRme
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720", CANAL+ LIVE 3
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122024&extension=ts&play_token=CybqwfSLOa
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720", CANAL+ LIVE 4
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122939&extension=ts&play_token=HIEGNfDnjh
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720", CANAL+ LIVE 5
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122028&extension=ts&play_token=kFra0tQEzm
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720", CANAL+ LIVE 6
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122030&extension=ts&play_token=JO8O3NwIu3
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720", CANAL+ LIVE 7
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122032&extension=ts&play_token=v6BlP5EabS
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720", CANAL+ LIVE 8
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122034&extension=ts&play_token=x6iYHVWSH9
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720", CANAL+ LIVE 9
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122036&extension=ts&play_token=kuZ8wahbOG
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720", CANAL+ LIVE 10
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122038&extension=ts&play_token=Pop6uUQR3I
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720", CANAL+ LIVE 11
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122040&extension=ts&play_token=hTZeyPAfkN
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/canalplus-live-12.png", CANAL+ LIVE 12
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122042&extension=ts&play_token=1MtcjI5wmF
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/canalplus-live-13.png", CANAL+ LIVE 13
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122044&extension=ts&play_token=g168GcxJY4
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/canalplus-live-14.png", CANAL+ LIVE 14
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122046&extension=ts&play_token=ehR6K7NzS8
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/canalplus-live-15.png", CANAL+ LIVE 15
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122048&extension=ts&play_token=jR2N0mt5SZ
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/canalplus-live-16.png", CANAL+ LIVE 16
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122050&extension=ts&play_token=pgbrtZxiUM
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/canalplus-live-17.png", CANAL+ LIVE 17
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122052&extension=ts&play_token=o7h6R125hi
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/canalplus-live-18.png", CANAL+ LIVE 18
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/tv5monde.jpg" group-title="XemTV",TV5MONDE
+https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/beinxtra.png" group-title="XemTV",BeinSports Xtra HD
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/mnet-sport.png" group-title="XemTV",Mnet Sport
+https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/skysports-football.png" group-title="XemTV",Sky Sports Football
+https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/itvsport.jpg" group-title="XemTV",ITV Sport HD
+https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
+#----ZING_RADIO------
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/5/0/8/f/508fb88137284723e67c83b9c9fede28.jpg", ZingRadio 1 - Vpop
+https://multi-playlist-zmp3.zmdcdn.me/odi6UBatld4/zhls/playback-realtime/6ddadf76e3330a6d5322/index.m3u8
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://photo-zmp3.zmdcdn.me/avatars/7/7/8/d/778d152062edfbe0e4c4abf151858bf0.jpg", ZingRadio 2 - Chạm FM
+https://multi-playlist-zmp3.zmdcdn.me/eHjZAdAk-sk/zhls/playback-realtime/59a2ee0ed24b3b15625a/index.m3u8
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/e/1/8/8/e1887a2c79f9d3d04984905cbf443a29.jpg", ZingRadio 3 - Kpop
+https://multi-playlist-zmp3.zmdcdn.me/rTbzjcKEO1A/zhls/playback-realtime/6600baac86e96fb736f8/index.m3u8
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/3/1/0/d/310df4f53c1026d4cb2844dc96cc01d3.jpg", ZingRadio 4 - USUK
+https://multi-playlist-zmp3.zmdcdn.me/-XosZVJX9XA/zhls/playback-realtime/f49e38320477ed29b466/index.m3u8
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/1/5/c/2/15c2abf5f4554b416384d4f675b2151e.jpg", ZingRadio 5 - CPop
+https://multi-playlist-zmp3.zmdcdn.me/_TAVBRh_ce4/zhls/playback-realtime/97b35e1f625a8b04d24b/index.m3u8
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/a/6/f/4/a6f4712ca91e9cc15530960ab44611da.jpg", ZingRadio 6 - EDM
+https://multi-playlist-zmp3.zmdcdn.me/lupi_x8-Su4/zhls/playback-realtime/7386bb2a876f6e31377e/index.m3u8
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/8/1/d/6/81d6bc7e9ced5d11d01f6da4b440f146.jpg", ZingRadio 7 - Acoustic
+https://multi-playlist-zmp3.zmdcdn.me/AiekixzmitQ/zhls/playback-realtime/9b7b55d7699280ccd983/index.m3u8
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/d/6/7/4/d6746d1bbff609111133449abb9e622b.jpg", ZingRadio 8 - Bolero
+https://multi-playlist-zmp3.zmdcdn.me/ioZs7yhxUxk/zhls/playback-realtime/5bace800d4453d1b6454/index.m3u8
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/0/c/2/e/0c2ee7cb5ef72b5db673341864312a2a.jpg", ZingRadio 9 - Rap Việt
+https://multi-playlist-zmp3.zmdcdn.me/XHOosOJ-f8g/zhls/playback-realtime/cef1015d3d18d4468d09/index.m3u8
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/9/5/5/b/955b98868b8b29e1e782fc0913d857d2.jpg", ZingRadio 10 - Indie
+https://multi-playlist-zmp3.zmdcdn.me/VV55kkJD6Qo/zhls/playback-realtime/eeff2a531616ff48a607/index.m3u8
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/e/d/d/6/edd6b56e8f79898dd98acfcf55c5564a.jpg", ZingRadio 11 - Thiếu Nhi
+https://multi-playlist-zmp3.zmdcdn.me/UKk_cQEl314/zhls/playback-realtime/ef512afd16b8ffe6a6a9/index.m3u8
