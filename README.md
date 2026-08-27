@@ -52,11 +52,5 @@
 - AFN HD
 - TV5MONDE
 
-### VTV
-- VTV1 HD (1080p)
-- VTV2 HD (1080p)
-- VTV3 HD (1080p)
-- VTV6 (1080p)
-
 ### ZZZ
 - TVB Vietnam (1080p)
