@@ -73,6 +73,12 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/afn-hd/KenhCoBan.m3u8
 https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist_b2500000.m3u8
 #----------------------SPORTS---------------------
 #----------------------VTV------------------------
+#EXTINF:-1 tvg-id="VTV3" group-title="VTV", VTV3
+https://rr1-ateme.tv360.vn/live/eds/155/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE1NS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc4Nzg2NzQ5Nn0.mTDOFBxCMgQFawB6rZkc5LhUiSLuYWQkAxFlDegL5no0Ku_4G4QReypMaqkXFm2XbKhy5ieS1IFhvhg2xJq7zg&screen=MHL&uid=58909375
+#EXTINF:-1 tvg-id="VTV6" group-title="VTV", VTV6
+https://tr-netcdn.tv360.vn/netcdn-live/479/output/index.m3u8?timestamp=1787867754&wmkid=0&token=66c202dc0fbd99a8b3289b2141bbccf2&minrate=0&maxrate=12000000&uid=58909375
 #--------------------ZZZZ----------------------------
 #EXTINF:-1 tvg-id="TVBVietnam.vn@SD" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/TVB%20Vietnam.jpeg" group-title="General",TVB Vietnam (1080p)
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
+
+
